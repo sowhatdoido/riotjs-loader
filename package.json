@@ -1,14 +1,14 @@
 {
   "name": "riotjs-loader",
   "version": "3.0.0",
-  "description": "riotjs module loader for webpack",
+  "description": "riotjs v3.0 module loader for webpack",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/esnunes/riotjs-loader.git"
+    "url": "https://github.com/sowhatdoido/riotjs-loader.git"
   },
   "keywords": [
     "webpack",
@@ -18,17 +18,17 @@
     "module"
   ],
   "author": {
-    "name": "Eduardo Nunes",
-    "email": "esnunes@gmail.com"
+    "name": "Frank Tran",
+    "email": "ftransd@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/esnunes/riotjs-loader/issues"
+    "url": "https://github.com/sowhatdoido/riotjs-loader/issues"
   },
-  "homepage": "https://github.com/esnunes/riotjs-loader",
+  "homepage": "https://github.com/sowhatdoido/riotjs-loader",
   "dependencies": {
     "loader-utils": "^0.2.6",
-    "riot-compiler": "^2.3.22"
+    "riot-compiler": "latest"
   },
   "peerDependencies": {
     "webpack": "^1.5.3"
